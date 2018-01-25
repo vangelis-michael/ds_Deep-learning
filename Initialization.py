@@ -1,3 +1,5 @@
+#Download the vgg16.h5 and vgg16_bn.h5 files from http://files.fast.ai/models/ and paste in .keras/models folder
+
 %matplotlib inline
 import sys
 print (sys.version) 
